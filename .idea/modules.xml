@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/RackMonthPicker-1.6.2.sample.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/RackMonthPicker-1.6.2.sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rackmonthpicker.iml" filepath="$PROJECT_DIR$/.idea/modules/rackmonthpicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rackmonthPicker/rackmonthpicker.rackmonthpicker.iml" filepath="$PROJECT_DIR$/.idea/modules/rackmonthPicker/rackmonthpicker.rackmonthpicker.iml" />
+    </modules>
+  </component>
+</project>
