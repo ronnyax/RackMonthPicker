@@ -1,2 +1,1 @@
-include ':rackmonthpicker'
 rootProject.name='rackmonthpicker'
